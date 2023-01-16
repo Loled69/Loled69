@@ -1,7 +1,7 @@
 ### nerd who uses lua to have fun in gta
 
 ### 💬 Discord: Loled#1337
-### 🔭 Tester for https://github.com/ZenithMenu
+### Tester for https://github.com/ZenithMenu
 
 <!--
 **Loled69/Loled69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
