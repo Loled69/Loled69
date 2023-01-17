@@ -1,4 +1,4 @@
-### nerd who uses lua to have fun in gta
+# i like to use lua in gta online
 
 ### 💬 Discord: Loled#1337
 ### Tester for https://github.com/ZenithMenu
