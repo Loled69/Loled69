@@ -1,7 +1,7 @@
 # i like to use lua in gta online
 
 ### 💬 Discord: Loled#1337
-### Tester for https://github.com/ZenithMenu
+### Tester/Staff for https://github.com/ZenithMenu
 
 ![GTA5_Gg8WC4mJmZ](https://user-images.githubusercontent.com/122758988/213059368-9d940e5e-8094-4527-9a82-2af9a687ae2f.png)
 
