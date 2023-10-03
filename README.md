@@ -1,10 +1,7 @@
-# i like to use lua in gta online
 
-### 💬 Discord: Loled#1337
 
-![GTA5_Gg8WC4mJmZ](https://user-images.githubusercontent.com/122758988/213059368-9d940e5e-8094-4527-9a82-2af9a687ae2f.png)
+### idk
 
-![](https://komarev.com/ghpvc/?username=Loled69&label=profile+views&style=flat-square)
 <!--
 **Loled69/Loled69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
