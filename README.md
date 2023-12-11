@@ -1,6 +1,8 @@
 
 
-### idk
+### Loled69
+
+I just help friends with basic stuff
 
 <!--
 **Loled69/Loled69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
